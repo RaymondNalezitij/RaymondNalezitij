@@ -1,11 +1,12 @@
 ### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, my name is Raymond
-
 ---
+
 About me:
 - 🌱 I am a software engineer specializing in backend development using PHP
 - 🧑‍💻 I am passionate about learning and hope to one day achieve proficiency in full stack development
-
 ---
+
+
 <!--
 **RaymondNalezitij/RaymondNalezitij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
