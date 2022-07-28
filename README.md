@@ -1,11 +1,10 @@
-### Hi there 👋, my name is Raymond
+### Hello 👋, my name is Raymond
+---
+I am a software engineer specializing in backend development using PHP
 
-- 🔭 I’m currently working on the things I know or don't know yet
-- 🌱 I’m always learning something new
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-www.linkedin.com%2Fin%2Fraimonds--nalezitijs-informational)
 
-
-
+---
 <!--
 **RaymondNalezitij/RaymondNalezitij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
