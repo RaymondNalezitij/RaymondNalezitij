@@ -1,6 +1,9 @@
-### Hello 👋, my name is Raymond
+### Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, my name is Raymond
+
 ---
-I am a software engineer specializing in backend development using PHP
+About me:
+- 🌱 I am a software engineer specializing in backend development using PHP
+- 🧑‍💻 I am passionate about learning and hope to one day achieve proficiency in full stack development
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-www.linkedin.com%2Fin%2Fraimonds--nalezitijs-informational)
 
