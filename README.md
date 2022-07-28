@@ -1,5 +1,11 @@
 ### Hi there 👋, my name is Raymond
 
+- 🔭 I’m currently working on the things I know or don't know yet
+- 🌱 I’m always learning something new
+![LinkedIn](https://img.shields.io/badge/LinkedIn-www.linkedin.com%2Fin%2Fraimonds--nalezitijs-informational)
+
+
+
 <!--
 **RaymondNalezitij/RaymondNalezitij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- 🔭 I’m currently working on the things I know or don't know yet
-- 🌱 I’m always learning something new
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-www.linkedin.com%2Fin%2Fraimonds--nalezitijs-informational)
