@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the things I know or don't know yet
 - 🌱 I’m always learning something new
-(https://img.shields.io/badge/LinkedIn-www.linkedin.com%2Fin%2Fraimonds--nalezitijs-informational)
+
+<img src="(https://img.shields.io/badge/LinkedIn-www.linkedin.com%2Fin%2Fraimonds--nalezitijs-informational)">
