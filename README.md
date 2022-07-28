@@ -5,8 +5,6 @@ About me:
 - 🌱 I am a software engineer specializing in backend development using PHP
 - 🧑‍💻 I am passionate about learning and hope to one day achieve proficiency in full stack development
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-www.linkedin.com%2Fin%2Fraimonds--nalezitijs-informational)
-
 ---
 <!--
 **RaymondNalezitij/RaymondNalezitij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
