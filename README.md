@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on the things I know or don't know yet
-🌱 I’m always learning something new
+- 🔭 I’m currently working on the things I know or don't know yet
+- 🌱 I’m always learning something new
